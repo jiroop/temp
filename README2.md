@@ -4,4 +4,4 @@
  
  ## This is a subheader
 
-Here is a [link] (http://www.nba.com/games/20170423/HOUOKC#/video)
+Here is a [link](http://www.nba.com/games/20170423/HOUOKC#/video)
