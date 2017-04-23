@@ -4,4 +4,4 @@
  
  ## This is a subheader
 
-Here is a ['www.nba.com'][] to the nba website. 
+Here is a [link]('www.nba.com')
